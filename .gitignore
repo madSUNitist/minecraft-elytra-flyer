@@ -1,0 +1,5 @@
+.venv
+logs
+models
+checklist
+clean_file.bat
